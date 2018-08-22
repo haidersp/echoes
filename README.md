@@ -4,17 +4,15 @@
 
 # Echoes Player - Angular Version (2nd Generation)
 
-Echoes is a great youtube player developed by [Oren Farhi](http://orizens.com).
+Echoes is a great youtube player developed by [Haider Presswala](http://whitestalliondigital.com).
 It's fun & easy to listen or watch videos from youtube with Echoes.
 What if youtube was designed to be used as music player?
 This repository is an implementation of Echoes Player with Angular (2nd genration)- It's still a work in progress aimed at learning and experimenting Angular (2nd generation).
 
-Echoes Player is also available as a [Chrome Application](https://chrome.google.com/webstore/detail/echoes-player/aaenpaopfebcmdaegggjbkhaedlbbkde)
-
 It can be regarded as the Media Player experience for youtube listening pleasure.
 
 <p align="center">
-  <a href="http://echoesplayer.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://user-images.githubusercontent.com/878660/30917366-7ffe7ba2-a3a4-11e7-89ab-e85f4b761bcb.png" alt="Webpack, Angular, ngrx, bootstrap" width="75%"/>
   </a>
 </p>
@@ -27,11 +25,7 @@ My services include:
 * consulting to companies and startups on how to approach code in their projects and keep it maintainable.
 * I provide project bootstrapping and development - while afterwards, I integrate it on site and guide the team on it.
 
-[Contact Me Here](http://orizens.com/contact)
-
-  <a href="https://orizens.com" target="_blank">
-    <img src="https://cloud.githubusercontent.com/assets/878660/23353771/d0adbd12-fcd6-11e6-96be-7a236f8819d9.png" alt="Webpack and Angular" width="20%"/>
-  </a>
+[Contact Me Here](haider.presswala@gmail.com)
 
 # Tech Stack
 
