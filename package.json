@@ -23,6 +23,8 @@
   },
   "private": true,
   "dependencies": {
+    "@angular/cli": "^6.0.3",
+    "@angular/compiler-cli": "5.2.7",
     "@angular-devkit/core": "0.0.29",
     "@angular/animations": "5.2.7",
     "@angular/common": "5.2.7",
